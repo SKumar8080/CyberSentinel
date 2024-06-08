@@ -154,15 +154,3 @@ $ echo $(curl -s "https://artii.herokuapp.com/make?text=Your+Text&font=block")
 ![Matrix](https://media.giphy.com/media/3o7aD4oP8lZCi4PSA4/giphy.gif)
 ```
 
-### Key Points in the README:
-
-- **Overview**: Brief introduction to the project.
-- **Installation**: Step-by-step guide to set up the project.
-- **Usage**: Instructions on how to use the tool.
-- **Project Structure**: Overview of the project directory layout.
-- **Contributing**: Information on how to contribute to the project.
-- **License**: Licensing information.
-- **Matrix Effect**: ASCII art generator to enhance the "hacker" theme.
-- **Visuals**: Added a GIF for visual appeal.
-
-You can copy this content into your `README.md` file, replace placeholder values (like the GitHub URL) with actual values, and customize it further if needed. This will make your project look professional and appealing on GitHub.
