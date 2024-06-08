@@ -152,5 +152,5 @@ $ echo $(curl -s "https://artii.herokuapp.com/make?text=Your+Text&font=block")
 **Stay Secure, Stay Vigilant!**
 
 ![Matrix](https://media.giphy.com/media/3o7aD4oP8lZCi4PSA4/giphy.gif)
-```
+
 
